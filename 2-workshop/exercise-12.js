@@ -15,6 +15,28 @@ function exercise12() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+  let i =0;
+  let num =0;
+  
+  Str
+
+  for (i = 1; i <= 100; i++)         
+  { 		  	  
+     let counter=0; 	  
+     for(num =i; num>=1; num--)
+{
+        if(i%num==0)
+  {
+counter = counter + 1;
+  }
+}
+if (counter ==2)
+{
+  //Appended the Prime number to the String
+  primeNumbers = primeNumbers + i + " ";
+}	
+  }	
+
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //

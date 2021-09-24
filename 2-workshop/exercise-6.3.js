@@ -6,6 +6,14 @@ function exercise6_3() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+  let i=2; 
+  while (i <= 50) {
+     
+    console.log(i);
+
+    i=i+2
+
+   }
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //
